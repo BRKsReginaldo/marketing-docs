@@ -1,9 +1,9 @@
 {
   "name": "Marketing Project",
   "short_name": "Marketing",
-  "start_url": "/",
+  "start_url": "/marketing-docs/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/marketing-docs/",
   "theme_color": "#009688"
 }
