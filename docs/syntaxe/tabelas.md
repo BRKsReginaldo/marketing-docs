@@ -2,7 +2,7 @@ title: Tabelas - Marketing
 
 # Tabelas
 
-As tabelas podem ser utilizadas para mostrar informações tabuladas de maneira visualmente
+As Tabelas podem ser utilizadas para mostrar informações tabuladas de maneira visualmente
 agradavel, é um pouco dificil explicar exatamente sua syntaxe, porém fácil de entender apenas olhando o seguinte exemplo:
 
 ```markdown
