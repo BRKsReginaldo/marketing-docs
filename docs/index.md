@@ -2,7 +2,7 @@ title: Introdução - Marketing
 
 # Introdução
 
-Faaaaaaaaaaaaaaaaaaala meus consagrados, tudo blz ? eu desenvolvi um pequeno projeto aqui pra gente poder documentar as
+Faaaaaala meus consagrados, tudo blz ? eu desenvolvi um pequeno projeto aqui pra gente poder documentar as
 coisas do projeto de marketing de engenharia de software, essa documentação atual serve apenas de base pra vocês conhecerem
 melhor a estrutura do projeto, saber como utilizar a syntaxe dessa linguagem **Markdown**, é bem simples, não tem erro.
 
