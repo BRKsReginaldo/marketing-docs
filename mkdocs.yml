@@ -25,7 +25,7 @@ extra:
   social:
     - type: github
       link: https://github.com/BRKsReginaldo/marketing-project
-  manifest: '/manifest.json'
+  manifest: 'https://brksreginaldo.github.io/marketing-docs/manifest.json'
 markdown_extensions:
   - codehilite
   - footnotes
