@@ -5,7 +5,7 @@ build:
 	docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 
 deploy:
-	docker-compose exec mkdocs gh-deploy
+	docker run --rm -it -v ~/.ssh:/root/.ssh -v ${PWD}:/docs squidfunk/mkdocs-material gh-deploy
 
 logs:
 	docker-compose logs mkdocs
